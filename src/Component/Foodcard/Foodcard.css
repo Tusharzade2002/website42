@@ -6,6 +6,7 @@
     margin:  20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     cursor: pointer;
+   position: relative;
     &:hover{
         transition: 0.3s;
           box-shadow: 0 0 10px rgba(0, 0, 0, 0.4) ;
@@ -20,4 +21,13 @@
 .card-description{
     text-align: center;
     font-size: 15px;
+}
+.card-type{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+  
+}
+.food-card-image{
+    width: 100%;
 }
