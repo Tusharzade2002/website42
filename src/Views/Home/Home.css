@@ -4,3 +4,17 @@
     align-items: center;
     flex-wrap: wrap;
 }
+.Brand-name{
+    text-align: center;
+    font-size: 35px;
+    color:orange;
+}
+.Brand-title{
+    text-align: center;
+    margin: 4px;
+    color:orange;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
